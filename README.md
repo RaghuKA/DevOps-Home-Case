@@ -16,6 +16,6 @@ These are the steps to deploy a binary on AWS EC2 Instance.
     4) Grant executable permissions.
     5) Run the binary
 
-# Task 3
+# Task 4
 Feedback:
 Thank you for the opportunity to complete the Home Case. This task is well designed and challenging. It provided a good opportunity to demonstrate technical skills. 
